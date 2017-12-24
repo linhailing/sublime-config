@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"CanIUse",
+		"CSSComb",
+		"JS Format",
+		"JsMinifier",
+		"Markdown",
+		"Sublime Prefixr",
+		"Vintage"
+	],
+	"soda_folder_icons": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme"
+}

@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Sublime Prefixr"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Can I Use",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"JS Format",
+		"JsFormat",
+		"JsMinifier",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime Prefixr",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Theme - Soda",
+		"WakaTime"
+	]
+}
