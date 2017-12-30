@@ -6,12 +6,14 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"AutoFileName",
 		"BracketHighlighter",
 		"Can I Use",
 		"ColorPicker",
+		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"CSScomb",
 		"CTags",
@@ -32,9 +34,11 @@
 		"Sublime Prefixr",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-php",
 		"SublimeREPL",
 		"SublimeTmpl",
 		"Theme - Soda",
+		"TrailingSpaces",
 		"WakaTime"
 	]
 }

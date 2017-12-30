@@ -70,3 +70,11 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 	+ GitGutter
 
 	+ Soda theme
+
+	+ TrailingSpaces(显示多余的空格)
+
+	+ Compare Side-By-Side(两个文件的对比)
+
+	+ weappSnippet(微信小程序插件)![详情](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
+
+	+ A File Icon

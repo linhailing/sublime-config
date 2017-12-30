@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+alt+l"], "command": "reindent" },  //注意不要忘记加逗号
+]
